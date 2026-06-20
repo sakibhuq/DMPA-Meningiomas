@@ -1,2 +1,2 @@
-# Genomic-hallmarks-of-DMPA-associated-meningiomas
+# DMPA Meningiomas
 R code used in "Genomic hallmarks of depot medroxyprogesterone acetate-associated meningiomas" by Huq et al. published in Neuro-Oncology.
