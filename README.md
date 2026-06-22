@@ -80,8 +80,3 @@ versions with `renv` (`renv::snapshot()` to write an `renv.lock`).
 These scripts contain no protected health information — no names, dates, record
 numbers, or local file paths. Patient identifiers are the manuscript labels
 `DMPA-1` … `DMPA-10` only.
-
-## Reuse
-
-No formal software license has been applied to this code. Please contact the
-authors regarding reuse or redistribution.
